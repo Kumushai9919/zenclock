@@ -1,8 +1,34 @@
-# React + Vite
+# Zen Study Timer 🎵⏱️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimalist study companion I built after being inspired during my subway commute. As someone who loves studying with lo-fi music in cafes, I wanted to create the perfect focused environment that I could access anywhere.
 
-Currently, two official plugins are available:
+## Features
+- Clean, distraction-free timer
+- Curated lo-fi study playlists via Spotify
+- Calming background images that change with a click
+- Simple, intuitive controls
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React + Vite
+- Tailwind CSS
+- Spotify Web API for music integration
+- Pixabay API for background images
+- Deployed on Vercel
+
+## Why I Built This
+I often found myself searching for the perfect study environment - one with just the right music and ambiance. Rather than jumping between different websites and playlists, I decided to build my own simple solution that combines everything I need for a focused study session.
+
+## Try It Out
+Visit: [Zen Study Timer](your-vercel-url-here)
+
+## Getting Started
+bash
+npm install
+npm run dev
+
+## APIs Used
+- Spotify Web API for curated lo-fi playlists
+- Pixabay API for peaceful background images
+
+Built with ❤️ by Kumush
+

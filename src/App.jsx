@@ -1,17 +1,15 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg' 
+import Timer from './components/Timer';
+import BackgroundImage from './components/BackgroundImage';
+import MusicPlayer from './components/MusicPlayer';
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-      <div className='container bg-red-500 mx-auto'>
-        <p>Click on the Vite and React logos to learn more</p>
-      </div>
-    </>
-  )
+    <div className="min-h-screen">
+      <BackgroundImage />
+      <Timer />
+      <MusicPlayer />
+    </div>
+  );
 }
 
-export default App
+export default App;

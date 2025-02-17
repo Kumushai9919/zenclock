@@ -25,9 +25,10 @@ A minimalist study companion I built after being inspired during my subway commu
 I often found myself searching for the perfect study environment - one with just the right music and ambiance. Rather than jumping between different websites and playlists, I decided to build my own simple solution that combines everything I need for a focused study session.
  
 ## Getting Started
-bash
+``` bash
 npm install
 npm run dev
+```
 
 ## APIs Used
 - Spotify Web API for curated lo-fi playlists

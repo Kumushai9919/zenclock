@@ -3,9 +3,7 @@
 
 A minimalist study companion I built after being inspired during my subway commute. As someone who loves studying with lo-fi music in cafes, I wanted to create the perfect focused environment that I could access anywhere.
 
-![Zen Study Timer Preview](./assets/preview.png)
-![Uploading preview.png…]()
-
+<img width="1504" alt="Screenshot 2025-02-18 at 2 29 06 AM" src="https://github.com/user-attachments/assets/00aa8daa-32b7-487e-bd7c-2168ca60d7c9" />
 
 ## Try It Out
 🎯 [Live Demo Zenclock](https://zenclock-kumushai9919-kumushais-projects.vercel.app/)
